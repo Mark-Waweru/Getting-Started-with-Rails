@@ -1,4 +1,4 @@
-# Rails Getting Started – Learning Project
+# Getting Started with Rails – Learning Project
 
 This repository is a **learning project** created by following the official Ruby on Rails documentation:
 
@@ -27,21 +27,20 @@ Follow this steps to run the Application Locally.
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
-**Step 2: Install Ruby Dependancies**
+**Step 2: Install Ruby Dependancies**<br>
 Install all required gems using bundler
 ```bash
 bundle install
 ```
-**Step 3: Setup the Database**
+**Step 3: Setup the Database**<br>
 Create and migrate the database
 ```bash
 rails db:create
 rails db:migrate
 ```
-**Step 4: Start the Rails Server**
+**Step 4: Start the Rails Server**<br>
 Run the development server
 ```bash
 bin/rails server
 ```
-Open your broswer and visit http://localhost:3000.
-You should see the Rails Application Running locally.
+Open your broswer and visit http://localhost:3000. You should see the Rails Application Running locally.
