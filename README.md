@@ -35,8 +35,8 @@ bundle install
 **Step 3: Setup the Database**<br>
 Create and migrate the database
 ```bash
-rails db:create
-rails db:migrate
+bin/rails db:create
+bin/rails db:migrate
 ```
 **Step 4: Start the Rails Server**<br>
 Run the development server
