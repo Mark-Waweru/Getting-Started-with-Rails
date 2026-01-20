@@ -37,6 +37,7 @@ Create and migrate the database
 ```bash
 bin/rails db:create
 bin/rails db:migrate
+bin/rails db:seed
 ```
 **Step 4: Start the Rails Server**<br>
 Run the development server
@@ -44,3 +45,12 @@ Run the development server
 bin/rails server
 ```
 Open your broswer and visit http://localhost:3000. You should see the Rails Application Running locally.
+Use this credentials to log In to the Application
+Email
+```bash
+test@gmail.com
+```
+Password
+```bash
+password
+```
