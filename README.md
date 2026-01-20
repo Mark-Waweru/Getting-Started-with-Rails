@@ -45,7 +45,7 @@ Run the development server
 bin/rails server
 ```
 Open your broswer and visit http://localhost:3000. You should see the Rails Application Running locally.
-Use this credentials to log In to the Application
+Use this credentials to log In to the Application<br>
 Email
 ```bash
 test@gmail.com
